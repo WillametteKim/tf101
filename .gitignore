@@ -1,0 +1,5 @@
+.terraform/
+*.tfstate
+.pre-commit-config.yaml
+*.backup
+*.info

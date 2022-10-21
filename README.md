@@ -4,6 +4,7 @@
 ## environment
 install
 - awscli
-- terraform with fmt
-- tfenv
+- terraform
+- tfenv, tflint, tfsec
 - AWasS
+- brew 
